@@ -1,0 +1,412 @@
+
+.navbar{
+   background-color: #44484c;
+   padding: 10px 0;
+   position: fixed;
+   top: 0;
+   left: 0;
+   float: right;
+   width: 100%;
+   height: 50px;
+  z-index: 1;
+  position: absolute;
+  display: inline;
+  gap: 20px;
+ 
+}
+.container{
+   filter: brightness(100%);
+display: flex;
+left: 1300px;
+bottom: 70px;
+align-items: center;
+padding: 0 20px;
+
+
+}
+.nav-links{
+   right: 550px;
+bottom: 150px;
+
+list-style: none;
+display: flex; 
+gap: 20px;
+justify-content: center;
+position: relative;
+}
+.nav-links li a:hover {
+color: gray;
+
+}
+.ul-links{
+   right: 450px;
+bottom: 212px;
+color: black;
+list-style: none;
+display: flex; 
+gap: 20px;
+justify-content: center;
+position: relative;
+
+}
+ .ul-links:hover{
+   color: gray;
+
+   }
+.cart {
+   text-decoration: none !important;
+   font-size: 16px;
+   height: 100%;
+   padding: 5px 15px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+color: white;
+position: relative;
+   bottom: 480px;
+  gap: 30px;
+}
+.on{
+   background-color: #44484c;
+   color: white;
+   border: 1px solid white;
+}
+.one{
+background-image:url(./images/back\ ground.jfif);
+background-size: cover;
+
+} 
+.سوق{
+   font-size: 60px;
+}
+ .inpuy{
+   width: 800px;
+   height: 70px;
+   top: 70%;
+   margin-right: 80px;
+    justify-content: center;
+    align-items: center;
+background-color: #fff;
+border: 1px solid white;
+box-sizing: border-box;
+ text-align: right;
+ font-size: 20px;  
+position: relative; 
+
+}
+.bb{
+   width: 800px;
+   height: 70px;
+
+  
+}
+.aa{
+position: absolute;
+width: 70px;
+height:65px;
+left: 28px;
+top: 60%;
+transform: translate(-50%);
+background-color: rgb(3, 200, 3);
+color: white;
+}
+
+.ss{
+  
+   font-size: 20px;
+}
+button{
+ 
+   margin: 10px;
+background-color: white;
+color: black;
+border: 1px solid white;
+font-size: 20px;
+transition: all 1s;
+}
+button:hover{
+background-color: rgb(3, 200, 3) ;
+color: white;
+transform: translate(0,-5px);
+
+}
+
+
+
+
+.two{
+   display: flex;
+   flex-wrap: wrap;
+   
+}
+
+
+
+
+div{
+   width: 15%;
+margin: 80px;
+
+position: relative;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+font-size: 15px;
+
+}
+img{
+position: absolute;
+z-index: -1;
+filter: brightness(70%);
+
+}
+
+.rahma{
+ font-family: Arial, Helvetica, sans-serif; 
+text-align: center;
+display: flex;
+flex-wrap: wrap;
+direction: rtl;
+position: absolute;
+background-color: #f8f9fa;
+z-index: -1;
+margin-top: 50px;
+padding: 0;
+
+}
+
+.xx{
+display: flex;
+   justify-content: flex-start;
+   align-items: center;
+background-color: white;
+background-size: auto;
+z-index: -1;
+border: 1px solid white;
+height: 80px;
+margin: 50px;
+gap: 10px;
+
+
+}
+.image{
+   width: 50px;
+   height: auto;
+}
+.text{
+color: black;
+justify-content: flex-start;
+white-space: nowrap;
+
+}
+.rehab{
+   direction: rtl;
+   margin-top: 90px;
+ margin-right: 120px;
+}
+
+.ppp{
+margin-right: 20px;
+}
+.sss{
+   margin-top: 600px;
+}
+
+.ahmed{
+ margin-top: 70px;
+ display: flex;
+ flex-wrap: wrap;
+  background-repeat: repeat;
+background-color: #f8f9fa;
+background-size: cover;
+  z-index: -1;
+position: absolute;
+direction: rtl;
+gap: 80px;}
+
+.mm{right: 150px;
+  position: relative;
+bottom: 40px;
+left: 100px;
+   width: 15%;
+  margin-left: 40px;
+   text-align: center;
+display: inline-block;
+  margin-top: 150px;
+  margin: 4%;
+ 
+}
+
+.tt{
+color: black;
+display: inline-block;
+white-space: nowrap;
+top: 80px;
+left: 50px;
+font-size: 20px;
+}
+.malak{
+   margin-top: 68%;
+display: flex;
+flex-wrap: wrap;
+
+}
+.bop{
+border: 1px solid black;
+
+}
+.malak h1 {
+margin-left: 89%;
+  direction: rtl;
+  font-size: 25px;
+}
+.nn{
+   filter: brightness(140%);
+display: inline-block;
+margin-right: 30px;
+
+
+}
+.pp{
+   filter: brightness(90%);
+   display: inline-block;
+   top: 100px;
+color: black;
+white-space: nowrap;
+align-items: center;
+justify-content: center;
+right: 30px;
+}
+#star{
+ 
+color: rgb(191, 164, 89);
+}
+.shams{
+   margin-top: 80px;
+background-color: #f8f9fa;
+background-size: cover;
+background-repeat: repeat;
+display: flex;
+flex-wrap: wrap;
+gap: 15px;
+
+}
+.bu{
+height: 60px;
+
+}
+.bu1{
+   height: 60px;
+   margin-left: 750px;
+}
+.youssef{
+   margin-top: 80px;
+background-color: #44484c;
+gap: 500px;
+
+
+}
+.sec{
+ 
+   background-size: cover;
+   color: whitesmoke;
+  font-size: 35px;
+   
+}
+.but{
+color: white;
+border: 1px solid green;
+  background-color: green;
+  height: 65px;
+  width: 120px;
+}
+.hamid{
+   display: flex;
+   flex-wrap: wrap;
+ 
+ 
+  
+}
+.tota{
+   color: black;
+   font-size: 20px;
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+   
+
+}
+.bra{
+   color: black;
+   text-decoration: none;
+}
+#sosa{
+margin-top: 5px;
+}
+#rora{
+   margin-top: 35px;
+}
+#hoho{
+   margin-top: 20px;
+}
+.selim{
+   margin: 0px;
+display: flex;
+   background-color: #f8f9fa;
+width: 100%;
+height: 60px;
+margin-top: 40px;
+position: absolute;
+}
+.kh{
+ position: relative;
+ margin-right: 0px;
+   color: black;
+   text-decoration: none;
+  white-space: nowrap;
+}
+.koko{
+   bottom: 50px;
+   position: relative;
+   left: 1000px;
+color: black;
+display: flex;
+gap: 20px;
+font-size: 25px;
+width: 10px;
+}
+.zr{
+ margin-right: 5px;
+}
+.center{
+ margin-top: 190px;
+}
+
+
+
+
+.aya{
+ display: flex;
+ white-space: nowrap;
+  direction: rtl;
+ gap: 0px; 
+}
+
+.by{
+display: flex;
+width: 15px;
+color: black;
+
+}
+.fgh{
+   color: black;
+   text-decoration: none;
+}
+#ert{
+   top: 70px;
+   left: 930px;
+}
+#iop{
+   right: 300px;
+}
